@@ -11,7 +11,6 @@ import 'package:timepro/widgets/dbhelper.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
-  //final FirebaseAuth _auth = FirebaseAuth.instance;
   await DBHelper.initDb();
   await GetStorage.init();
   runApp(MyApp());
