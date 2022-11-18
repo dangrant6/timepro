@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964052435653",
+    "project_id": "test-3f3d0",
+    "storage_bucket": "test-3f3d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964052435653:android:9d2aa01fd4ccafdc9266ac",
+        "android_client_info": {
+          "package_name": "com.example.timepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964052435653-o4alb8hpj3gpgrgeh8jr2ovv2btu4nau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvyT0WEhL30PGQo013yVa233MoKX4lXxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964052435653-o4alb8hpj3gpgrgeh8jr2ovv2btu4nau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
